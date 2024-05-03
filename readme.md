@@ -43,7 +43,10 @@ Primeiro, precisamos entender o que é GIT e o que é GITHUB, são a mesma coisa
 ## Conceitos GITHUB
  -O GITHUB trabalha com repositórios. Repositórios são os diretórios, as pastas do GIT, que servem para armazenar os projetos.
 O GITHUB também é como uma rede social para programadores, podendo compartilhar seus códigos, dúvidas e receber ajudas de diversos programadores em diversos cantos do mundo.
- 
+
+## GUI Clients: 
+ É uma interface do próprio GIT, pra caso você queira visualizar tudo o que está acontecendo, de uma forma mais visual, algumas delas são a SourceTree, Git Extensions, GitHub Desktop, dentre outras.
+
 
 ## QUAL A FUNCIONALIDADE DE UM REPOSITÓRIO NO GITHUB?
  Sua funcionalidade, é para tudo o que estiver no repositório da nossa máquina, vá para o GITHUB, como forma de armazenar ou postar seus projetos.
@@ -51,6 +54,15 @@ O GITHUB também é como uma rede social para programadores, podendo compartilha
 ## COMO CRIAR UM REPOSITÓRIO NO GITHUB?
  Para criar um repositório no GITHUB, você deve entrar no seu perfil, ir em "Repositories" e clicar em um botão verde    chamado "New". Lá você consegue configurar a criação do seu repositório, definir se ele será público ou privado, se ele já será criado com um readme, dentre outras funções.
 
-## GUI Clients: 
- É uma interface do próprio GIT, pra caso você queira visualizar tudo o que está acontecendo, de uma forma mais visual, algumas delas são a SourceTree, Git Extensions, GitHub Desktop, dentre outras.
+## COMO POSTAR O SEU PROJETO NO GITHUB?
+ Agora que você está ciente do que é GIT e GITHUB, suas funções, conceitos e comandos, como postar seu projeto? Para isso, darei passo a passo, de como você pode fazer isso.
+
+ 1- No GITHUB, vá até a página principal do seu repositório.
+ 2- Clique em "Projetos"
+ 3- Clique em "Vincular um projeto"
+ 4- Na barra de pesquisa que aparece, pesquise por projetos pertentencentes ao mesmo usuário ou organização proprietária do repositório.
+ 5- Clique em um projeto para listá-lo no seu repositório.
+
+Todos esses passo a passo estão em "docs.github.com", lá você pode ter suas dúvidas respondidas ou pedir ajuda com algo no qual não está listado nesse meu projeto.
+ Assim, encerro esse projeto, espero que tenha sido de clara interpretação e que tenham conseguido aprender ou que eu tenha conseguido responder suas dúvidas, obrigado por ler até aqui!
 
