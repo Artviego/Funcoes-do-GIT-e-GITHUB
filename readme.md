@@ -1,4 +1,4 @@
-Esse projeto se trata de uma explicação das funções e comandos do GIT e GITHUB, e o passo a passo para postar o seu projeto online.
+Olá a todos!! Sejam bem vindos ao meu primeiro projeto. Esse projeto se trata de uma explicação das funções e comandos do GIT e GITHUB, e o passo a passo para postar o seu projeto online.
 
 Primeiro, precisamos entender o que é GIT e o que é GITHUB, são a mesma coisa? Esses conceitos podem acabar gerando muita dúvida, e são muito usados na área de TI, seja em faculdades ou em empresas. Nesse readme, explicarei o conceito de cada um e seus comandos e funções, de forma clara e objetiva.
 
