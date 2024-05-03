@@ -49,7 +49,7 @@ O GITHUB também é como uma rede social para programadores, podendo compartilha
  Sua funcionalidade, é para tudo o que estiver no repositório da nossa máquina, vá para o GITHUB, como forma de armazenar ou postar seus projetos.
 
 ## COMO CRIAR UM REPOSITÓRIO NO GITHUB?
- Para criar um repositório no GITHUB, você deve entrar no seu perfil, ir em "Repositories" e clicar em um botão verde    chamado "New". 
+ Para criar um repositório no GITHUB, você deve entrar no seu perfil, ir em "Repositories" e clicar em um botão verde    chamado "New". Lá você consegue configurar a criação do seu repositório, definir se ele será público ou privado, se ele já será criado com um readme, dentre outras funções.
 
 ## GUI Clients: 
  É uma interface do próprio GIT, pra caso você queira visualizar tudo o que está acontecendo, de uma forma mais visual, algumas delas são a SourceTree, Git Extensions, GitHub Desktop, dentre outras.
