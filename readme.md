@@ -42,7 +42,7 @@ Primeiro, precisamos entender o que é GIT e o que é GITHUB, são a mesma coisa
 
 ## Conceitos GITHUB
  -O GITHUB trabalha com repositórios. Repositórios são os diretórios, as pastas do GIT, que servem para armazenar os projetos.
-  -O GITHUB é como uma rede social para programadores, podendo compartilhar seus códigos, dúvidas e receber ajudas de diversos programadores em diversos cantos do mundo.
+O GITHUB também é como uma rede social para programadores, podendo compartilhar seus códigos, dúvidas e receber ajudas de diversos programadores em diversos cantos do mundo.
  
 
 ## QUAL A FUNCIONALIDADE DE UM REPOSITÓRIO NO GITHUB?
